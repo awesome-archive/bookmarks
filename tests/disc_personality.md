@@ -28,4 +28,41 @@ As you will appreciate, there are literally thousands of different combinations 
 
 The 'Profiles' are often given names. The objective of these names is to give a single descriptive term that captures the essence of that Profile. Names often used are Achiever, Coach, Evaluator, Counselor, Creative, Individualist, Inspirational, Investigator, Objective Thinker, Perfectionist, Persuader, Practitioner, Enthusiast, Results-Oriented or Specialist
 
+---
 
+[Crystal](https://www.crystalknows.com/personality/) - DISC Test
+
+## Result (2020)
+
+You are the **Stabilizer**
+
+### Traits
+* Perceptive
+* Calm
+* Consistent
+
+You tend to be logical and analytical about decisions, but warm in interactions with others.
+You tend to prioritize stability and consistency in your environment. They are likely to be even-tempered, attentive to details, and structured in their approach. Even if a task may appear tedious, they can likely work through it patiently and correctly.
+
+### Insights
+
+#### What comes naturally to you
+
+* Finishing one task before starting another
+* Giving others time to adapt to change
+* Appreciating formality in business meetings
+* Listening closely to all the details
+
+#### What energizes you
+
+* Security
+* Predictability
+* Cleanliness & organization
+* Support from others
+
+#### What drains you
+
+* Chaotic environments
+* Uncertainty
+* Vague directions
+* Inconsistency from others
