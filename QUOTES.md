@@ -91,3 +91,18 @@
 * A team of senior engineers without junior engineers is a team of engineers. [Malte Ubl, Immigrant (cramforce)](https://twitter.com/cramforce/status/927960579263700993)
 * [Programming quotes](http://quotes.cat-v.org/programming/)
 * Give me six hours to chop down a tree and I will spend the first four sharpening the axe. Abraham Lincoln
+* Leadership is the ability to hide your panic from others. Lao Tzu
+* No code is faster than no code. - Merb Motto
+* Make sure your worst enemy doesn't live between your two ears. Laird Hamilton
+* People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things. - Steve Jobs
+* Constantly running after productivity just leads to waste. Run towards value instead. If you focus on getting value out the door as effectively as possible, productivity will take care of itself. [Allen Holub](https://twitter.com/allenholub/status/1359219232282562563)
+* Educating a team slows you down for a week or two. Not educating the team slows you down forever. Time spent in learning is never wasted. [Allen Holub](https://twitter.com/allenholub/status/1134704667328335873)
+* Don't be pushed by your problems. Be led by your dreams. Ralph Waldo Emerson
+* There is never enough time to do it right yet we find time to do it again and again. Jack Bergman?
+* Ignorantia juris non excusat or ignorantia legis neminem excusat (Latin phrase for "ignorance of the law does not excuse")
+* Slow is steady. Steady is smooth. Smooth is fast. [Source](https://twitter.com/DanielMiessler/status/1406038903878868992)
+* How to kill stress and nervousness:
+> * It's practice, not performance.
+> * It's a puzzle, not a test.
+> * It's a journey, not an end.
+> * Source : [Chris Dillon](https://twitter.com/squarism/status/943577752958943232)
